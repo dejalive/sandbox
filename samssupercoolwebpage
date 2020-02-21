@@ -1,0 +1,26 @@
+<img width=200, src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-1/10612815_835409129832062_6916077804591465707_n.jpg?_nc_cat=102&_nc_oc=AQmtGgJo_IFKLtKnDt0xS5pYqzW-iLqcEF0m1Y5j4oQfqQW3RfLyhjZFW3dKhoreZHo&_nc_ht=scontent-lga3-1.xx&oh=5d26789edb18cf281ad063e133defc34&oe=5EB88B4C">
+<br>
+<br>
+<h1><font color=blue>Sam's Super Cool Webpage</font></h1>
+<p><b>Thanks for visiting my super cool page!</b></p>
+<hr>
+<h2><font color=green>Things That I Like</h2>
+<table>
+<tr>
+<th><font color=purple>Movies</font></th>
+<th><font color=purple>Basketball</font></th>
+<th><font color=purple>The Bachelor</font></th>
+</tr>
+<tr>
+<td><ul>
+<li>Hercules</li>
+<li>Deadpool 2</li>
+<li>Moonwalker</li>
+<li>The Wolf of Wall Street</li>
+<li>The Bee Movie</li>
+</ul>
+</td>
+<td>Especially the Brooklyn Nets</td>
+<td>This is my favorite show in the whole world</td>
+</tr>
+</table>
